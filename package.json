@@ -1,0 +1,16 @@
+{
+  "name": "testmd2spread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "author": "endlmk",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^12.0.4"
+  },
+  "type": "module"
+}
