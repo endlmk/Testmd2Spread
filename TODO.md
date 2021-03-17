@@ -1,4 +1,5 @@
 - ~~Show markdown-it parse result.~~
 - ~~Read markdown text from file~~
-- Install VSCode extension for GCM checkbox.
+- ~~Install VSCode extension for GCM checkbox.~~
 - Install and use markdown-it-checkbox
+- Add eslint
