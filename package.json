@@ -13,5 +13,12 @@
     "markdown-it": "^12.0.4",
     "markdown-it-task-lists": "^2.1.1"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1"
+  }
 }

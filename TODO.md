@@ -2,5 +2,5 @@
 - ~~Read markdown text from file~~
 - ~~Install VSCode extension for GCM checkbox.~~
 - ~~Install and use markdown-it-task-lists~~
+- ~~Install eslint~~
 - Install typescript
-- Add eslint
