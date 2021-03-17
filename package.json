@@ -10,7 +10,8 @@
   "author": "endlmk",
   "license": "ISC",
   "dependencies": {
-    "markdown-it": "^12.0.4"
+    "markdown-it": "^12.0.4",
+    "markdown-it-task-lists": "^2.1.1"
   },
   "type": "module"
 }
