@@ -1,4 +1,5 @@
 import MarkdownIt from 'markdown-it'
+// @ts-ignore
 import markdownItTaskLists from 'markdown-it-task-lists'
 import { readFileSync } from 'fs'
 

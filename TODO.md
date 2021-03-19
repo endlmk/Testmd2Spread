@@ -3,4 +3,5 @@
 - ~~Install VSCode extension for GCM checkbox.~~
 - ~~Install and use markdown-it-task-lists~~
 - ~~Install eslint~~
-- Install typescript
+- ~~Install typescript~~
+- Config typescript-eslint
