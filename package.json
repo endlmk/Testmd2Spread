@@ -13,7 +13,7 @@
     "markdown-it": "^12.0.4",
     "markdown-it-task-lists": "^2.1.1"
   },
-  "type": "module",
+  "type": "commonjs",
   "devDependencies": {
     "@types/markdown-it": "^12.0.1",
     "@types/node": "^14.14.35",

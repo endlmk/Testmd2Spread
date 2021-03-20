@@ -1,6 +1,6 @@
-import MarkdownIt from 'markdown-it'
+import MarkdownIt = require('markdown-it/lib')
 // @ts-ignore
-import markdownItTaskLists from 'markdown-it-task-lists'
+import markdownItTaskLists = require('markdown-it-task-lists')
 import { readFileSync } from 'fs'
 
 var md = MarkdownIt().use(markdownItTaskLists);
