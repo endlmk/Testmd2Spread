@@ -4,4 +4,5 @@
 - ~~Install and use markdown-it-task-lists~~
 - ~~Install eslint~~
 - ~~Install typescript~~
-- Config typescript-eslint
+- ~~Config typescript-eslint~~
+- ~~Config editorconfig & prettier~~

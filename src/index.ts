@@ -1,10 +1,10 @@
-import MarkdownIt from 'markdown-it/lib'
-// @ts-ignore
-import markdownItTaskLists from 'markdown-it-task-lists'
-import { readFileSync } from 'fs'
+import MarkdownIt from "markdown-it/lib";
+// @ts-expect-error
+import markdownItTaskLists from "markdown-it-task-lists";
+import { readFileSync } from "fs";
 
-var md = MarkdownIt().use(markdownItTaskLists);
-var contents = readFileSync('test.md', 'utf8')
+const md = MarkdownIt().use(markdownItTaskLists);
+const contents = readFileSync("test.md", "utf8");
 
-var result = md.parse(contents, {}); // Type error occcured without 2nd argument.
-console.log(result)
+const result = md.parse(contents, {}); // Type error occcured without 2nd argument.
+console.log(result);
